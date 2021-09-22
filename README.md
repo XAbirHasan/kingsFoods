@@ -78,7 +78,7 @@ Year: 2020
 <img src="demo/3.10.png" alt="FoodOrder list" width="300"/>
 
 #### Order Details
-<img src="demo/3.11.png" alt="Order1" width="300"/>  
+<img src="demo/3.11.png" alt="Order1" width="300"/>
 <img src="demo/3.12.png" alt="Order2" width="300"/>  <img src="demo/3.13.png" alt="Order3" width="300"/>
 
 <br>
