@@ -8,7 +8,7 @@ This project was developed in 2020. My first ever commercial app for kingsFoodsb
 Name: kingsFoods <br>
 Programming Language: Java <br>
 Platfrom: Android application <br>
-Project No: 22 <br>
+Project No: 25 <br>
 Year: 2020-21
 
 ## Demo Video
