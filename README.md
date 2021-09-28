@@ -1,18 +1,18 @@
 # kingsFoods
- An commercial app. (late 2020-21)
+An commercial app. (late 2020-21)
 
-This project was developed in 2020. My first ever commercial app for kingsFoodsbd. But unfortunately they are now out of business. So to showcase my work adding this.
+This project was developed in 2021. My first ever commercial app for kingsFoodsbd. But unfortunately they are now out of business. So to showcase my work adding this.
 
 
 ## Project description
 Name: kingsFoods <br>
 Programming Language: Java <br>
-Platfrom: Android application <br>
+Platform: Android application <br>
 Project No: 25 <br>
 Year: 2020-21
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/1bBcfG0_Xd4/0.jpg)](http://www.youtube.com/watch?v=1bBcfG0_Xd4 "Zetta || android dev") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NHgB3AxyKl0/0.jpg)](http://www.youtube.com/watch?v=NHgB3AxyKl0 "kingsFoods || android dev")
 
 ## Screen shot
 
