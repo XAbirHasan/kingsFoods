@@ -1,5 +1,5 @@
 # kingsFoods
-An commercial app. (late 2020-21)
+A commercial app. (late 2020-21)
 
 This project was developed in 2021. My first ever commercial app for kingsFoodsbd. But unfortunately they are now out of business. So to showcase my work adding this.
 
